@@ -26,10 +26,10 @@ Repositorio criado para por em pratica as ideias, exercicos e logicas estudadas 
 
 ### Ordem de precendência:
 
-1: `()` Os parênteses sempre vão ser operados em primeiro
-2: `**` Em seguida as Potências
-3: `*` => `/` => `//` => `%` Multiplicação, Divisão, Divisão Inteira e Resto da Divisão respectivamente são as proximas a serem atuadas
-4: `+` e `-` Adição e Subitrção são as ultimas a serem resolvidas
+- 1: `()` Os parênteses sempre vão ser operados em primeiro
+- 2: `**` Em seguida as Potências
+- 3: `*` => `/` => `//` => `%` Multiplicação, Divisão, Divisão Inteira e Resto da Divisão respectivamente são as proximas a serem atuadas
+- 4: `+` e `-` Adição e Subitrção são as ultimas a serem resolvidas
 
 
 
