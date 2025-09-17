@@ -1,4 +1,4 @@
-n = int(input('Digite um numero para saber seu dobro, triplo e sua raiz quadrada: '))
+n = float(input('Digite um numero para saber seu dobro, triplo e sua raiz quadrada: '))
 n2 = n*2
 n3 = n*3
 nr = n**(1/2)
