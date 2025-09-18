@@ -1,4 +1,6 @@
-import math
+# Importações
+from math import sqrt
+
 n = int(input('Digite um numero: '))
-sqrt = math.sqrt(n)
-print(f'A raiz quadrada do seu numero é: {sqrt}')
+r = sqrt(n)
+print(f'A raiz quadrada do seu numero é: {r}')
